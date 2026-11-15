@@ -1,0 +1,2 @@
+total_tested,go_tested,kegg_tested,total_significant,go_significant,kegg_significant,clustered_terms,representative_modules,jaccard_threshold
+1698,1499,199,514,379,135,180,30,0.4

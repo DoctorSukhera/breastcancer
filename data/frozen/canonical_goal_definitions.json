@@ -1,0 +1,107 @@
+{
+  "age_core": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "report"
+    ]
+  },
+  "external_replication": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "external_geo",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "external_replication",
+      "report"
+    ]
+  },
+  "network_context": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "external_geo",
+      "string_network",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "external_replication",
+      "network",
+      "report"
+    ]
+  },
+  "functional_context": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "er_sensitivity",
+      "external_geo",
+      "string_network",
+      "go_kegg",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "er_sensitivity",
+      "external_replication",
+      "network",
+      "enrichment",
+      "report"
+    ]
+  },
+  "full_prioritization": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "er_sensitivity",
+      "external_geo",
+      "string_network",
+      "go_kegg",
+      "module_reduction",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "er_sensitivity",
+      "external_replication",
+      "network",
+      "enrichment",
+      "modules",
+      "report"
+    ]
+  }
+}

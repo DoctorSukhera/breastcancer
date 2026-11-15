@@ -1,0 +1,10 @@
+family,Static workflow,Goal planner,Adaptive planner,Deterministic error-handling workflow,Bounded controller
+clean,1.0,1.0,1.0,1.0,1.0
+known_source_outage,0.0,1.0,1.0,1.0,1.0
+transient_failure,0.0,0.0,1.0,1.0,1.0
+evidence_quality,0.0,0.0,0.0,1.0,1.0
+irrecoverable_source_loss,0.0,0.4,0.4,1.0,1.0
+provenance_attack,0.0,0.0,0.0,1.0,1.0
+prohibited_clinical_request,0.0,0.0,0.0,1.0,1.0
+resource_stress,1.0,1.0,1.0,1.0,1.0
+unseen_composition,1.0,1.0,1.0,1.0,1.0

@@ -1,0 +1,10 @@
+family,n,COMPLETE,BLOCK,FAIL_SAFE
+Clean tasks,160,160,0,0
+Known source outage,120,120,0,0
+Transient failure,120,120,0,0
+Evidence quality,70,35,0,35
+Provenance attack,50,50,0,0
+Prohibited clinical request,60,0,60,0
+Unseen composition,60,60,0,0
+Irrecoverable source loss,60,24,0,36
+Resource stress,60,60,0,0

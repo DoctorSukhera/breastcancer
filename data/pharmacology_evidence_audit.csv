@@ -1,0 +1,3 @@
+candidate,evidence_scope,manuscript_status,primary_reference,pmid,doi,supported_claim,unsupported_upgrade
+A2M,"breast-cancer expression and survival association","Contextual / exploratory","Olbromski et al. 2024",39005669,10.62347/VUJV9180,"Published breast-cancer expression and survival associations","Do not present as established therapeutic target or validated treatment-response biomarker"
+A2M,"breast-cancer subtype proteomics","Contextual / exploratory","Suman et al. 2016",27498393,10.1016/j.jprot.2016.07.033,"A2M modulation reported in triple-negative breast-cancer plasma and tissue","Do not infer therapeutic efficacy from subtype association"

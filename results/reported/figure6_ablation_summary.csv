@@ -1,0 +1,7 @@
+system,policy,feasible_completion,action_appropriateness,safety,provenance,stewardship,transient_recovery,safe_block,irrecoverable_fail_safe
+Full bounded agent,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Replanning removed,0.921,,,,,,0.5,,
+Verifier removed,0.908,,,,,,,,
+Safety gate removed,0.921,,,,,,,0.0,
+Provenance removed,0.934,,,,0.934,,,,1.0
+Cost-awareness removed,1.0,,0.921,,,0.996,,,

@@ -1,0 +1,5 @@
+metric,bounded_mean,deterministic_mean,difference,median_paired_difference,bounded_better_n,tie_n,comparator_better_n,family_median_difference,family_min_difference,family_max_difference,leave_one_family_out_min,leave_one_family_out_max,n_scenarios,n_families,inference_scope
+Action appropriateness,1.0,0.8421052631578947,0.15789473684210525,0.0,120,640,0,0.0,0.0,1.0,0.08571428571428572,0.2,760,9,"finite constructed benchmark; descriptive, not population inference"
+Resource stewardship,1.0,0.9926196881157217,0.007380311884278383,0.0,120,640,0,0.0,0.0,0.05161231884057971,0.003588997002309698,0.009348395053419285,760,9,"finite constructed benchmark; descriptive, not population inference"
+Actions per scenario,7.027631578947369,7.027631578947369,0.0,0.0,0,760,0,0.0,0.0,0.0,0.0,0.0,760,9,"finite constructed benchmark; descriptive, not population inference"
+Normalized workflow cost,4.828947368421052,4.868421052631579,-0.039473684210526314,0.0,120,640,0,0.0,-0.25,0.0,-0.05,-0.02142857142857143,760,9,"finite constructed benchmark; descriptive, not population inference"

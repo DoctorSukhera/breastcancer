@@ -1,0 +1,13 @@
+module_id,representative_term,source,adjusted_p,module_size_terms,candidate_overlap_n,candidate_overlap_genes
+1,Pathways in cancer,KEGG,2.995999e-18,124,7,"IGF1, IL7R, ESR1, FOXO1, EGFR, MAPK8, MYC"
+2,Regulation of Apoptotic Process,GO Biological Process,2.975554e-12,7,7,"EGR1, IGF1, SQSTM1, FOXO1, EGFR, MAPK8, MYC"
+3,Positive Regulation of DNA-templated Transcription,GO Biological Process,1.41488e-11,8,7,"EGR1, IGF1, SQSTM1, ESR1, FOXO1, EGFR, MYC"
+4,Cellular senescence,KEGG,3.739966e-11,1,3,"SQSTM1, FOXO1, MYC"
+5,Transcriptional misregulation in cancer,KEGG,2.291678e-10,1,3,"IGF1, FOXO1, MYC"
+6,DNA Damage Response,GO Biological Process,1.794987e-09,1,2,"FOXO1, MYC"
+7,Viral carcinogenesis,KEGG,4.046397e-08,1,0,—
+8,Cell cycle,KEGG,1.486975e-07,1,1,MYC
+9,Cellular Response to Oxygen-Containing Compound,GO Biological Process,3.539327e-07,2,6,"EGR1, IGF1, ESR1, FOXO1, EGFR, MAPK8"
+10,p53 signaling pathway,KEGG,1.685014e-06,1,1,IGF1
+11,Protein Stabilization,GO Biological Process,8.900382e-06,5,1,IGF1
+12,Apoptotic Process,GO Biological Process,1.504126e-05,1,2,"FOXO1, MYC"

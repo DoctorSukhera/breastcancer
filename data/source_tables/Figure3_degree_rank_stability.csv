@@ -1,0 +1,4 @@
+comparison,spearman_rho
+400 vs 700,0.887
+700 vs 900,0.899
+400 vs 900,0.806

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Reproducible Prioritization of Age-Associated Breast Cancer Genes with Bounded Computational Workflow Governance"
+message: "If you use this code or benchmark, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: "Memon"
+    given-names: "Farah Deeba"
+    orcid: "https://orcid.org/0000-0002-1987-2402"
+  - family-names: "Yar"
+    given-names: "Sukhera Ahmad"
+    orcid: "https://orcid.org/0000-0002-9688-3076"
+  - family-names: "Ma"
+    given-names: "Xingyi"
+    orcid: "https://orcid.org/0000-0001-9864-1698"
+version: 1.0.27-issue27
+license: MIT

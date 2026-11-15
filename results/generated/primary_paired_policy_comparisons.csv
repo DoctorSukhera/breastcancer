@@ -1,0 +1,4 @@
+comparison,difference,median_paired_difference,bounded_better_n,tie_n,comparator_better_n,family_median_difference,family_min_difference,family_max_difference,leave_one_family_out_min,leave_one_family_out_max,n_scenarios,n_families,inference_scope
+vs Static,0.631578947368421,1.0,480,280,0,1.0,0.0,1.0,0.5625,0.8,760,9,"finite constructed benchmark; descriptive, not population inference"
+vs Goal planner,0.4421052631578947,0.0,336,424,0,0.6,0.0,1.0,0.3375,0.56,760,9,"finite constructed benchmark; descriptive, not population inference"
+vs Adaptive planner,0.28421052631578947,0.0,216,544,0,0.0,0.0,1.0,0.21159420289855072,0.36,760,9,"finite constructed benchmark; descriptive, not population inference"

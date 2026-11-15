@@ -1,0 +1,28 @@
+comparison,family,difference
+vs Static,clean,0.0
+vs Static,evidence_quality,1.0
+vs Static,irrecoverable_source_loss,1.0
+vs Static,known_source_outage,1.0
+vs Static,prohibited_clinical_request,1.0
+vs Static,provenance_attack,1.0
+vs Static,resource_stress,0.0
+vs Static,transient_failure,1.0
+vs Static,unseen_composition,0.0
+vs Goal planner,clean,0.0
+vs Goal planner,evidence_quality,1.0
+vs Goal planner,irrecoverable_source_loss,0.6
+vs Goal planner,known_source_outage,0.0
+vs Goal planner,prohibited_clinical_request,1.0
+vs Goal planner,provenance_attack,1.0
+vs Goal planner,resource_stress,0.0
+vs Goal planner,transient_failure,1.0
+vs Goal planner,unseen_composition,0.0
+vs Adaptive planner,clean,0.0
+vs Adaptive planner,evidence_quality,1.0
+vs Adaptive planner,irrecoverable_source_loss,0.6
+vs Adaptive planner,known_source_outage,0.0
+vs Adaptive planner,prohibited_clinical_request,1.0
+vs Adaptive planner,provenance_attack,1.0
+vs Adaptive planner,resource_stress,0.0
+vs Adaptive planner,transient_failure,0.0
+vs Adaptive planner,unseen_composition,0.0

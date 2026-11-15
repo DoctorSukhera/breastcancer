@@ -1,0 +1,17 @@
+ISSUE 27 — PHARMACOLOGICAL CONTEXTUALIZATION CHRONOLOGY
+
+MANUSCRIPT CORRECTION 1 — METHODS
+OLD:
+"the 12 Class A–C candidates were subjected to a prespecified pharmacological contextualization step."
+
+NEW:
+"the 12 Class A–C candidates were subjected during peer-review revision to a structured pharmacological contextualization step. This revision-added layer was not part of the original molecular analysis plan and is therefore interpreted as descriptive evidence contextualization rather than as a prespecified validation endpoint."
+
+MANUSCRIPT CORRECTION 2 — RESULTS
+OLD:
+"Applying the prespecified follow-up interpretation to the 12 Class A–C candidates yielded three distinct routes."
+
+NEW:
+"Applying this revision-added follow-up interpretation to the 12 Class A–C candidates yielded three distinct routes."
+
+No candidate, class, pharmacological category, follow-up route, numerical result, or figure value changed.

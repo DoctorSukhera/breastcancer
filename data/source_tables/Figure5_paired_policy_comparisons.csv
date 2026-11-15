@@ -1,0 +1,4 @@
+comparison,difference,sensitivity_low,sensitivity_high
+vs Static,0.631578947368421,0.5625,0.8
+vs Goal planner,0.4421052631578947,0.3375,0.56
+vs Adaptive planner,0.2842105263157894,0.2115942028985507,0.36

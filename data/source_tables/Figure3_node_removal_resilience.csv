@@ -1,0 +1,4 @@
+strategy,auc
+Random,0.283
+Degree-targeted,0.146
+Betweenness-targeted,0.155

@@ -1,0 +1,5 @@
+comparator,policy_advantage_pp,action_appropriateness_advantage_pp
+Static workflow,63.1578947368421,79.07894736842105
+Goal planner,44.21052631578948,31.71052631578948
+Adaptive planner,28.421052631578945,31.71052631578948
+Error-handling workflow,0.0,15.789473684210531

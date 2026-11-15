@@ -1,0 +1,13 @@
+{
+  "benchmark_version": "1.0-integrity-revision",
+  "status": "frozen generated benchmark",
+  "files": {
+    "controller_input_manifest.csv": "6959b2843cc14c2b3a40bfc08c2bfdc910f0f19b446290f3b32b2d79da10e8ca",
+    "reference_policy.csv": "fdff257d81964d19ae8cc93d7b1f18eca5ab15268fd45345c4289e42835b316c",
+    "canonical_goal_definitions.json": "072b4e912c62b29ca9ce620453b179fa80a409b2fea537a30928c4bd40940a4d",
+    "heldout_goal_definitions.json": "0bc56dac61ec77714e4083be7c6cfccd8436fe0d4dd4b3860fa3d2372ce1a5f2",
+    "goal_definitions.json": "11db1609beea597aa15d08ee43b387e1ace7ece5e6d7e1320065f6330d1979b8",
+    "action_registry.csv": "da7d181ac14c65e3439c8701d13d657030325af2ae6ac61335d155912613f6a8",
+    "scenario_family_definitions.csv": "b972fdc008fe35ca20e9ecbd81baf9cb26e8973b088595250d45b65571f791ff"
+  }
+}

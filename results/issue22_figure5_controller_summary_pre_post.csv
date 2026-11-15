@@ -1,0 +1,23 @@
+system,metric,issue21_value,issue22_value
+Static workflow,policy,0.368,0.368421052631579
+Static workflow,action,,0.209210526315789
+Static workflow,safety,,0.921052631578947
+Static workflow,provenance,,0.539473684210526
+Static workflow,escalation,,0.906578947368421
+Static workflow,stewardship,,0.718038277511962
+Static workflow,mean_cost,7.72,5.48684210526316
+Goal planner,policy,0.637,0.557894736842105
+Goal planner,action,,0.682894736842105
+Goal planner,safety,,0.921052631578947
+Goal planner,provenance,,0.728947368421053
+Goal planner,escalation,,0.906578947368421
+Goal planner,stewardship,,0.841091822939349
+Goal planner,mean_cost,4.679,4.85526315789474
+Adaptive planner,policy,0.716,0.715789473684211
+Adaptive planner,action,,0.682894736842105
+Adaptive planner,safety,,0.921052631578947
+Adaptive planner,provenance,,0.886842105263158
+Adaptive planner,escalation,,0.906578947368421
+Adaptive planner,stewardship,,0.880432875667429
+Adaptive planner,mean_cost,4.895,5.46973684210526
+Bounded controller,mean_cost,4.412,4.82894736842105

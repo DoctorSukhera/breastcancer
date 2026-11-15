@@ -1,0 +1,37 @@
+metric,family,difference
+Action appropriateness,clean,0.0
+Action appropriateness,evidence_quality,0.0
+Action appropriateness,irrecoverable_source_loss,0.0
+Action appropriateness,known_source_outage,0.0
+Action appropriateness,prohibited_clinical_request,0.0
+Action appropriateness,provenance_attack,0.0
+Action appropriateness,resource_stress,1.0
+Action appropriateness,transient_failure,0.5
+Action appropriateness,unseen_composition,0.0
+Resource stewardship,clean,0.0
+Resource stewardship,evidence_quality,0.0
+Resource stewardship,irrecoverable_source_loss,0.0
+Resource stewardship,known_source_outage,0.0
+Resource stewardship,prohibited_clinical_request,0.0
+Resource stewardship,provenance_attack,0.0
+Resource stewardship,resource_stress,0.05161231884057971
+Resource stewardship,transient_failure,0.020935815846806573
+Resource stewardship,unseen_composition,0.0
+Actions per scenario,clean,0.0
+Actions per scenario,evidence_quality,0.0
+Actions per scenario,irrecoverable_source_loss,0.0
+Actions per scenario,known_source_outage,0.0
+Actions per scenario,prohibited_clinical_request,0.0
+Actions per scenario,provenance_attack,0.0
+Actions per scenario,resource_stress,0.0
+Actions per scenario,transient_failure,0.0
+Actions per scenario,unseen_composition,0.0
+Normalized workflow cost,clean,0.0
+Normalized workflow cost,evidence_quality,0.0
+Normalized workflow cost,irrecoverable_source_loss,0.0
+Normalized workflow cost,known_source_outage,0.0
+Normalized workflow cost,prohibited_clinical_request,0.0
+Normalized workflow cost,provenance_attack,0.0
+Normalized workflow cost,resource_stress,-0.25
+Normalized workflow cost,transient_failure,-0.125
+Normalized workflow cost,unseen_composition,0.0

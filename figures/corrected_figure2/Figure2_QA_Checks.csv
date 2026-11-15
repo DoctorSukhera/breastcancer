@@ -1,0 +1,13 @@
+gene,TCGA_direction,GEO_direction,GEO_replication,ER_heterogeneity_significant,evidence_class
+IL7R,negative,negative,True,False,Class A
+SQSTM1,positive,positive,True,False,Class A
+EGR1,negative,negative,True,False,Class A
+IGF1,negative,negative,True,False,Class A
+ESR1,positive,positive,True,True,Class B
+A2M,negative,negative,True,False,Class B
+FOXO1,negative,negative,True,True,Class B
+EIF5A2,negative,negative,True,True,Class B
+EGFR,negative,positive,False,True,Class C
+MYC,negative,negative,False,False,Class C
+MAPK8,negative,positive,False,False,Class C
+IRS2,negative,negative,False,False,Class C

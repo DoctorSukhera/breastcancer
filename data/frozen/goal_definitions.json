@@ -1,0 +1,212 @@
+{
+  "age_core": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "report"
+    ]
+  },
+  "external_replication": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "external_geo",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "external_replication",
+      "report"
+    ]
+  },
+  "network_context": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "external_geo",
+      "string_network",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "external_replication",
+      "network",
+      "report"
+    ]
+  },
+  "functional_context": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "er_sensitivity",
+      "external_geo",
+      "string_network",
+      "go_kegg",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "er_sensitivity",
+      "external_replication",
+      "network",
+      "enrichment",
+      "report"
+    ]
+  },
+  "full_prioritization": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "er_sensitivity",
+      "external_geo",
+      "string_network",
+      "go_kegg",
+      "module_reduction",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "er_sensitivity",
+      "external_replication",
+      "network",
+      "enrichment",
+      "modules",
+      "report"
+    ]
+  },
+  "heldout_replication_network": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "external_geo",
+      "string_network",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "external_replication",
+      "network",
+      "report"
+    ]
+  },
+  "heldout_adjusted_enrichment": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "external_geo",
+      "go_kegg",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "external_replication",
+      "enrichment",
+      "report"
+    ]
+  },
+  "heldout_er_network": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "er_sensitivity",
+      "string_network",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "er_sensitivity",
+      "network",
+      "report"
+    ]
+  },
+  "heldout_replication_modules": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "external_geo",
+      "go_kegg",
+      "module_reduction",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "external_replication",
+      "enrichment",
+      "modules",
+      "report"
+    ]
+  },
+  "heldout_adjusted_network_modules": {
+    "sequence": [
+      "expression_gdc",
+      "clinical_age",
+      "age_association",
+      "covariate_adjustment",
+      "string_network",
+      "go_kegg",
+      "module_reduction",
+      "provenance_log",
+      "final_report"
+    ],
+    "required_artifacts": [
+      "expression",
+      "age",
+      "age_association",
+      "adjusted_model",
+      "network",
+      "enrichment",
+      "modules",
+      "report"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "validated_python": "3.13.5",
+  "validated_platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0",
+  "statsmodels": "0.14.6",
+  "networkx": "3.6.1",
+  "matplotlib": "3.10.8"
+}

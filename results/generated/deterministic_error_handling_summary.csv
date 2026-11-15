@@ -1,0 +1,2 @@
+system,n,policy_conformance,feasible_goal_completion,action_appropriateness,safety_conformance,provenance_conformance,escalation_conformance,resource_stewardship,mean_oracle_cost,mean_cost,mean_actions,bounded_mean_cost,bounded_mean_actions
+Deterministic error-handling workflow,760,1.0,1.0,0.8421052631578947,1.0,1.0,1.0,0.9926196881157217,4.828947368421052,4.868421052631579,7.027631578947369,4.828947368421052,7.027631578947369

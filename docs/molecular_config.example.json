@@ -1,0 +1,38 @@
+{
+  "output_dir": "/absolute/path/outside/repository/AgeAware_BC_Molecular_Reproduction",
+  "inputs": {
+    "tcga_expression": "/absolute/path/to/tcga_brca_log2_uq_fpkm.csv",
+    "tcga_clinical": "/absolute/path/to/tcga_brca_clinical.csv",
+    "genage": "/absolute/path/to/genage_human_gene_symbols.csv",
+    "geo_series_matrix": "/absolute/path/to/GSE42568_expression.csv",
+    "geo_annotation": "/absolute/path/to/GPL570_annotation.csv",
+    "geo_metadata": "/absolute/path/to/GSE42568_metadata.csv",
+    "string_edges": "/absolute/path/to/string_human_edges.tsv",
+    "string_mapping": "/absolute/path/to/string_protein_to_gene.tsv",
+    "go_gene_sets": "/absolute/path/to/GO_Biological_Process_snapshot.gmt",
+    "kegg_gene_sets": "/absolute/path/to/KEGG_Human_snapshot.gmt",
+    "enrichment_background": null
+  },
+  "columns": {
+    "sample_col": "sample_id",
+    "age_col": "age",
+    "er_col": "ER",
+    "pr_col": "PR",
+    "her2_col": "HER2",
+    "stage_col": "stage",
+    "geo_probe_col": "probe_id",
+    "geo_symbol_col": "gene_symbol",
+    "geo_sample_col": "sample_id",
+    "geo_age_col": "age"
+  },
+  "settings": {
+    "permutations": 500,
+    "permutation_seed": 42,
+    "bootstrap_resamples": 1000,
+    "bootstrap_seed": 42,
+    "enrichment_top": 180,
+    "enrichment_jaccard": 0.4,
+    "go_library_name": "GO_Biological_Process_2023_frozen_snapshot",
+    "kegg_library_name": "KEGG_2021_Human_frozen_snapshot"
+  }
+}
