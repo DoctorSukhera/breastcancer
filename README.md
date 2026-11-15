@@ -1,5 +1,11 @@
 # Breast cancer molecular prioritization and bounded computational workflow governance
 
+
+## Graphical Abstract
+
+![Graphical Abstract](figures/Graphical_Abstract.png)
+
+
 **Research code and data release — assembled 10 November 2026**
 
 This is a GitHub-uploadable research archive, **not evidence that every external molecular analysis or submitted figure has been independently reproduced**. All methods and included outcomes should be interpreted within the limitations described in [`docs/DATA_AVAILABILITY_AND_LIMITATIONS.md`](docs/DATA_AVAILABILITY_AND_LIMITATIONS.md) and [`docs/FIGURE_REPRODUCIBILITY_STATUS.md`](docs/FIGURE_REPRODUCIBILITY_STATUS.md).
